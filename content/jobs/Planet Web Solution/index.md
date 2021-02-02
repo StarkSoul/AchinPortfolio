@@ -10,3 +10,4 @@ url: 'https://www.planetwebsolution.com'
 - Write modern, performance, maintenance code for some live projects.
 - Worked with a variety of different languages, platforms, frameworks, and content management systems such as JavaScript, TypeScript, Gatsby, ReactJS, NodeJS.
 - Communicate with multi-disciplinary teams of engineers, designers, producers, and clients on a daily basis.
+- Involved in every casual activities.
