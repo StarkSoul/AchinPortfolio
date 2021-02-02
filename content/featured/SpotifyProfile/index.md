@@ -2,7 +2,7 @@
 date: '12-8-2020'
 title: 'Restaurant Management System'
 cover: './Trio.jpg'
-github: 'https://github.com/StarkSoul/Resturent-website'
+github: 'https://youtu.be/CYCiWxADSW4'
 
 tech:
   - .Net
