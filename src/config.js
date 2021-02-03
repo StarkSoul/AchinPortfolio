@@ -23,8 +23,8 @@ module.exports = {
       url: 'https://twitter.com/achin_stark',
     },
     {
-      name:'StackOverFlow',
-      url:'https://stackoverflow.com/users/10699375/achin-stark',
+      name: 'StackOverFlow',
+      url: 'https://stackoverflow.com/users/10699375/achin-stark',
     },
   ],
 
@@ -49,9 +49,15 @@ module.exports = {
 
   colors: {
     green: '#64ffda',
-    navy: '#0a192f',
-    darkNavy: '#020c1b',
+    navy: '#000000',
+    darkNavy: '#290000',
   },
+
+  // colors: {
+  //   green: '#64ffda',
+  //   navy: '#0a192f',
+  //   darkNavy: '#020c1b',
+  // },
 
   srConfig: (delay = 200, viewFactor = 0.25) => ({
     origin: 'bottom',
