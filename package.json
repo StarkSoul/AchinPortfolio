@@ -34,6 +34,11 @@
     ]
   },
 
+
+  "engines": {
+    "node": ">=18.0.0" 
+  },
+
   "dependencies": {
     "@babel/core": "^7.19.6", 
     "animejs": "^3.2.1", 
