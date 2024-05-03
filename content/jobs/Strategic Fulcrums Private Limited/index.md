@@ -1,6 +1,6 @@
 ---
 date: '2022-10-03'
-title: 'Senior Full Stack Developer'
+title: 'Senior DevOps Tech Lead'
 company: 'Strategic Fulcrums Private Limited'
 location: 'Jaipur,Rajasthan'
 range: 'October 2022 - Present'
